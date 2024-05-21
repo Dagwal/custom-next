@@ -1,5 +1,5 @@
 'use client'
-import FileUploadForm from '../components/FileUploadForm';
+import FileUploadForm from '../components/fileUploadForm';
 
 const UploadPage = () => {
   return (
